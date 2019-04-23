@@ -41,6 +41,7 @@ Second is with using A* search, when while building the graph, the optimal path 
 - I failed to solve it with A* search. Probably my f-score definition is not appropriate. With brute force I can solve the puzzle in ~ 200 steps.
 
 #Example output
+
 [An output with using brute force](output_brute_force.txt)
 
 [An output with using A* search](output_a_star_search.txt)
