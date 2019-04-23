@@ -1,0 +1,1 @@
+java -cp ./build/libs/slidingpuzzle-1.0-SNAPSHOT.jar com.foo.App
