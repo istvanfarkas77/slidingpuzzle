@@ -42,4 +42,5 @@ Second is with using A* search, when while building the graph, the optimal path 
 
 #Example output
 [An output with using brute force](output_brute_force.txt)
+
 [An output with using A* search](output_a_star_search.txt)
